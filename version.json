@@ -1,8 +1,8 @@
 {
-  "version": "0.8.2",
-  "url": "https://github.com/amaktraher/kp-dist/releases/download/v0.8.2/Setup_KP_Studio_0.8.2.exe",
-  "size": 116034249,
-  "sha256": "44781422a660ef8b31d460b6963ca05e378a1b5a77bc7bf78fb06a9c889db8ac",
-  "notes": "КП Студия 0.8.2",
-  "published": "2026-11-19T09:27:11.241Z"
+  "version": "0.8.3",
+  "url": "https://github.com/amaktraher/kp-dist/releases/download/v0.8.3/Setup_KP_Studio_0.8.3.exe",
+  "size": 116003679,
+  "sha256": "1c4fd259c918250d834399f34daf9fe4976271b9c421d597061f7690b444c357",
+  "notes": "КП Студия 0.8.3",
+  "published": "2026-11-19T10:13:20.538Z"
 }
